@@ -1,0 +1,13 @@
+/* CSS Document */
+.table-text-section {
+	padding: 10px;
+	background-color: rgba(255, 255, 255, 0.8);
+	color: gray;
+	max-width: 600px;
+	margin: auto;
+	border-radius: 10px;
+	margin-top: 20px;
+	font-weight: bold;
+	line-height: 1.5; /* Adjust the line spacing. Default value is normal, increase or decrease the number as required */
+}
+

@@ -1,0 +1,23 @@
+pasta1: 新增填滿圖層
+pasta2: 自然飽和度、對比
+pasta3: 自然飽和度
+pasta4: 曝光度、對比
+pasta5: 自然飽和度、對比
+
+pasta1_food1: 文字遮色片
+pasta1_food2: 文字遮色片
+pasta1_food3: 文字遮色片
+pasta1_food4: 套用文字樣式、自然飽和度
+pasta2_food1: 文字遮色片、路徑工具、新增填滿圖層
+pasta2_food2: 文字遮色片、路徑工具、新增填滿圖層
+pasta2_food3: 文字遮色片、路徑工具
+pasta2_food4: 文字遮色片、路徑工具
+pasta3_food1: 文字遮色片
+pasta3_food2: 文字遮色片
+pasta3_food3: 文字遮色片
+pasta4_food1: 套用文字樣式
+pasta4_food2: 套用文字樣式、仿製印章工具
+pasta4_food3: 套用文字樣式
+pasta2_food1: 文字遮色片、路徑工具
+pasta2_food2: 文字遮色片、路徑工具
+pasta2_food3: 文字遮色片、路徑工具

@@ -1,0 +1,13 @@
+.store_name {
+	font-family: 'Microsoft JhengHei';
+	padding: 10px;
+	background-color: rgba(255, 255, 255, 0.8);
+	color: black;
+	max-width: 600px;
+	margin: auto;
+	border-radius: 10px;
+	margin-top: 20px;
+	font-weight: bold;
+	font-size: 36px;
+           
+}

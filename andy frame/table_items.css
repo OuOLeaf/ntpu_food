@@ -1,0 +1,7 @@
+.table_items {
+	font-family: "Microsoft JhengHei";
+	font-size: 24px; /* Adjust this value to change the font size */
+	font-weight: bold; /* This will make the font bold */
+	text-align: center; /* This will center-align the content */
+	background-color: rgba(0, 128, 0, 0.2); /* Transparent green background color */
+}

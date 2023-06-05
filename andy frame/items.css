@@ -1,0 +1,10 @@
+.items {
+	font-family: 'Microsoft JhengHei';
+	font-size: 36px; /* Adjust this value to change the font size */
+	font-weight: bold; /* This will make the font bold */
+	padding: 10px;
+	background-color: rgba(255, 255, 255, 0.8);
+	color: black;
+	border-radius: 10px;
+           
+}
